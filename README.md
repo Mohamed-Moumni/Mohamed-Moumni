@@ -1,8 +1,8 @@
 ## Hi there, I'm Mohamed Moumni welcome to my profile.
 
-* I'm a software engineer student at 1337 Khouribga
+* I'm a software developer student at 1337 Khouribga
 * I'm interested in understanding how computers work (compilers, computer architecture, networks ...)
-* I write code with c, c++, and Python.
+* I write code with C, C++, and Python.
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mmoumni">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
