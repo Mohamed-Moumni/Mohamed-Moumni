@@ -3,7 +3,7 @@
 * I'm a software developer student at 1337 Khouribga
 * I'm interested in understanding how computers work (compilers, computer architecture, networks ...)
 * I write code with C, C++, and Python.
-* currently I'm working on ft_trenscendence Project.
+* currently I'm working on ft_transcendence Project.
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mmoumni">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
