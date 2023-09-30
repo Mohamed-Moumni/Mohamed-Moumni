@@ -3,6 +3,7 @@
 * I'm a software developer student at 1337 Khouribga
 * I'm interested in understanding how computers work (compilers, computer architecture, networks ...)
 * I write code with C, C++, and Python.
+* I sometimes blog at [Medium](https://medium.com/@Rigor_08)
 * currently I'm working on ft_transcendence Project.
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mmoumni">
