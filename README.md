@@ -2,10 +2,6 @@
 
 Hello! 👋
 
-My name is Mohamed Moumni, I am a software development student at 1337 KH, Interested in understanding how computers work under the hood and the security of software.
-<br>The main programming languages I use are C/C++ and Python lastly JavaScript/typescript, I'm also a Backend Developer.
-<br>Lifelong learner, with the ability to learn fast new technologies.
-In my free time, I write articles on some interesting topics on [medium](https://medium.com/@Rigor_08), and I'm a soccer player.
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/mmoumni">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
